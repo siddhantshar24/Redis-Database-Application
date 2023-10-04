@@ -1,4 +1,4 @@
-# Redis-Springboot-Jedis-Application
+# Redis-Database-Application
 Technologies used: Java, SpringBoot, Redis.
 
 - Redis is being used as a database in this application, it helps in reducing server loads.
